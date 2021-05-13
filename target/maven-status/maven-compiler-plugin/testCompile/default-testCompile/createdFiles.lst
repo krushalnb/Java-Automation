@@ -1,0 +1,8 @@
+com\automation\init\Common$1.class
+com\automation\verification\HomeVerificationPage.class
+com\automation\index\HomeIndex.class
+com\automation\init\SeleniumInit.class
+com\automation\indexpage\HomeIndexPage.class
+com\automation\init\TestData.class
+com\automation\init\AbstractPage.class
+com\automation\init\Common.class
